@@ -395,30 +395,30 @@ const SLIDE_DURATION = () => SLIDER_CONFIG.settings.autoSlideSpeed;
 const PROGRESS_UPDATE_INTERVAL = 50;
 const TRANSITION_DURATION = () => SLIDER_CONFIG.settings.transitionDuration;
 const slides = [
-  {
-    title: "Ethereal Glow",
-    media: "https://assets.codepen.io/7558/orange-portrait-001.jpg"
-  },
-  {
-    title: "Rose Mirage",
-    media: "https://assets.codepen.io/7558/orange-portrait-002.jpg"
-  },
-  {
-    title: "Velvet Mystique",
-    media: "https://assets.codepen.io/7558/orange-portrait-003.jpg"
-  },
-  {
-    title: "Golden Hour",
-    media: "https://assets.codepen.io/7558/orange-portrait-004.jpg"
-  },
-  {
-    title: "Midnight Dreams",
-    media: "https://assets.codepen.io/7558/orange-portrait-005.jpg"
-  },
-  {
-    title: "Silver Light",
-    media: "https://assets.codepen.io/7558/orange-portrait-006.jpg"
-  }
+{
+  title: "Ethereal Glow",
+  media: "https://raw.githubusercontent.com/sergeysanz/its-my-life/main/assets/1.jpeg"
+},
+{
+  title: "Rose Mirage",
+  media: "https://raw.githubusercontent.com/sergeysanz/its-my-life/main/assets/2.jpeg"
+},
+{
+  title: "Velvet Mystique",
+  media: "https://raw.githubusercontent.com/sergeysanz/its-my-life/main/assets/3.jpeg"
+},
+{
+  title: "Golden Hour",
+  media: "https://raw.githubusercontent.com/sergeysanz/its-my-life/main/assets/4.jpeg"
+},
+{
+  title: "Midnight Dreams",
+  media: "https://raw.githubusercontent.com/sergeysanz/its-my-life/main/assets/5.jpeg"
+},
+{
+  title: "Silver Light",
+  media: "https://raw.githubusercontent.com/sergeysanz/its-my-life/main/assets/6.jpeg"
+}
 ];
 // Touch support variables
 let touchStartX = 0;
